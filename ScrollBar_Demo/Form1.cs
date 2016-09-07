@@ -6,7 +6,7 @@ using System.Windows.Forms;
  * Scroll Bar Demo
  * 7 September, 2016
  * This program will demonstrate the scroll bar feature. 
- * / 
+ */ 
 namespace ScrollBar_Demo {
     public partial class ScrollBar : System.Windows.Forms.Form {
         public ScrollBar() { InitializeComponent(); }
